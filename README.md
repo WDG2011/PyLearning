@@ -1,2 +1,2 @@
 # PyLearning
-Basic Python (Sep 2023)
+Repository for learning Python (September 2023)
